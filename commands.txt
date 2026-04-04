@@ -1,0 +1,7 @@
+git add index.html
+
+git commit -m ""
+
+git push origin main
+
+cd C:\Users\Brendan\OneDrive - University College Cork\Desktop\dumb shit\Wiki for pf
